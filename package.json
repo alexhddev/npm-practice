@@ -1,0 +1,23 @@
+{
+  "name": "npm-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barosanuemailtest/npm-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barosanuemailtest/npm-practice/issues"
+  },
+  "homepage": "https://github.com/barosanuemailtest/npm-practice#readme",
+  "dependencies": {
+    "uuid": "^9.0.0"
+  }
+}
