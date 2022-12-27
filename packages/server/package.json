@@ -1,0 +1,23 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"test server\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barosanuemailtest/npm-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barosanuemailtest/npm-practice/issues"
+  },
+  "homepage": "https://github.com/barosanuemailtest/npm-practice#readme",
+  "description": "",
+  "dependencies": {
+    "mocha": "^10.2.0"
+  }
+}
